@@ -1,0 +1,2 @@
+coversion functions needed
+-rands to cents
