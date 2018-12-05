@@ -1,2 +1,5 @@
 coversion functions needed
 -rands to cents
+-the level of difficulty
+-hours to minutes
+-celcius to farhrenheit
